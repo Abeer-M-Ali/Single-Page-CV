@@ -68,5 +68,3 @@ This project is open source and free to use under the [MIT License](LICENSE).
 
 This project is part of the [roadmap.sh open-source project ideas](https://roadmap.sh/projects), created to help developers build hands-on experience.
 ```
-
----
